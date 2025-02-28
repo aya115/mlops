@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/628124996797319126/5b11d28b4e2940c6856dc6b9cbc1a6dc/artifacts
+end_time: 1740480872589
+entry_point_name: ''
+experiment_id: '628124996797319126'
+lifecycle_stage: active
+run_id: 5b11d28b4e2940c6856dc6b9cbc1a6dc
+run_name: resilient-loon-865
+run_uuid: 5b11d28b4e2940c6856dc6b9cbc1a6dc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740480872559
+status: 4
+tags: []
+user_id: aya

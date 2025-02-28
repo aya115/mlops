@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/4b8cf5d075f341f892233d0221e6d342/artifacts
+deleted_time: 1740479049528
+end_time: 1740335063931
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 4b8cf5d075f341f892233d0221e6d342
+run_name: powerful-horse-122
+run_uuid: 4b8cf5d075f341f892233d0221e6d342
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740335057596
+status: 4
+tags: []
+user_id: aya

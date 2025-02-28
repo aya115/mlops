@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/628124996797319126/7a3e5ea334c14c83af8860bcd59f9348/artifacts
+end_time: 1740481134097
+entry_point_name: ''
+experiment_id: '628124996797319126'
+lifecycle_stage: active
+run_id: 7a3e5ea334c14c83af8860bcd59f9348
+run_name: welcoming-conch-69
+run_uuid: 7a3e5ea334c14c83af8860bcd59f9348
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740481134053
+status: 3
+tags: []
+user_id: aya

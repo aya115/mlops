@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Prédiction Churn</title>
+</head>
+<body>
+    <h2>Prédiction du Churn</h2>
+    <form method="POST">
+
+        <label>Durée du compte :</label>
+        <input type="number" name="account_length" required><br>
+
+        <label>Code de zone :</label>
+        <input type="number" name="area_code" required><br>
+
+        <label>Appels service client :</label>
+        <input type="number" name="customer_service_calls" required><br>
+
+        <label>Plan international :</label>
+        <select name="international_plan">
+            <option value="yes">Oui</option>
+            <option value="no">Non</option>
+        </select><br>
+
+        <label>Plan messagerie vocale :</label>
+        <select name="voice_mail_plan">
+            <option value="yes">Oui</option>
+            <option value="no">Non</option>
+        </select><br>
+
+        <label>Messages vocaux :</label>
+        <input type="number" name="number_vmail_messages" required><br>
+
+        <label>Nombre d'appels (jour) :</label>
+        <input type="number" name="total_day_calls" required><br>
+
+        <label>Frais d'appel (jour) :</label>
+        <input type="number" step="0.1" name="total_day_charge" required><br>
+
+        <label>Minutes d'appel (jour) :</label>
+        <input type="number" step="0.1" name="total_day_minutes" required><br>
+
+        <label>Nombre d'appels (soir) :</label>
+        <input type="number" name="total_eve_calls" required><br>
+
+        <label>Frais d'appel (soir) :</label>
+        <input type="number" step="0.1" name="total_eve_charge" required><br>
+
+        <label>Minutes d'appel (soir) :</label>
+        <input type="number" step="0.1" name="total_eve_minutes" required><br>
+
+        <label>Nombre d'appels (nuit) :</label>
+        <input type="number" name="total_night_calls" required><br>
+
+        <label>Frais d'appel (nuit) :</label>
+        <input type="number" step="0.1" name="total_night_charge" required><br>
+
+        <label>Minutes d'appel (nuit) :</label>
+        <input type="number" step="0.1" name="total_night_minutes" required><br>
+
+        <label>Nombre d'appels international :</label>
+        <input type="number" name="total_intl_calls" required><br>
+
+        <button type="submit">Prédire</button>
+    </form>
+
+    {% if prediction is not none %}
+        <h3>Résultat de la prédiction : {{ prediction }}</h3>
+    {% endif %}
+</body>
+</html>
+

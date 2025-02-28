@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/81d6e5ad337f4cadbb8522f1b77bbfcb/artifacts
+end_time: 1740772647832
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 81d6e5ad337f4cadbb8522f1b77bbfcb
+run_name: colorful-cow-269
+run_uuid: 81d6e5ad337f4cadbb8522f1b77bbfcb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740772647801
+status: 4
+tags: []
+user_id: aya

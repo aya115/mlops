@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/628124996797319126/3a2f76a2b93448f2b2f3063d397cd842/artifacts
+end_time: 1740481124819
+entry_point_name: ''
+experiment_id: '628124996797319126'
+lifecycle_stage: active
+run_id: 3a2f76a2b93448f2b2f3063d397cd842
+run_name: learned-hog-909
+run_uuid: 3a2f76a2b93448f2b2f3063d397cd842
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740481124776
+status: 3
+tags: []
+user_id: aya

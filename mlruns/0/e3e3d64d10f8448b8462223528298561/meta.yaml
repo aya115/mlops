@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/e3e3d64d10f8448b8462223528298561/artifacts
+end_time: 1740772758494
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e3e3d64d10f8448b8462223528298561
+run_name: peaceful-ant-557
+run_uuid: e3e3d64d10f8448b8462223528298561
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740772758479
+status: 4
+tags: []
+user_id: aya

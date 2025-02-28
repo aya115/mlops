@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/628124996797319126/364b85e9c57144b1b8b1da2e64205fcd/artifacts
+end_time: 1740480976243
+entry_point_name: ''
+experiment_id: '628124996797319126'
+lifecycle_stage: active
+run_id: 364b85e9c57144b1b8b1da2e64205fcd
+run_name: rebellious-kite-623
+run_uuid: 364b85e9c57144b1b8b1da2e64205fcd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740480976201
+status: 4
+tags: []
+user_id: aya

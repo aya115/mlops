@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/628124996797319126/8a64a42aa6b941468e28136f53c77478/artifacts
+end_time: 1740481124874
+entry_point_name: ''
+experiment_id: '628124996797319126'
+lifecycle_stage: active
+run_id: 8a64a42aa6b941468e28136f53c77478
+run_name: beautiful-conch-44
+run_uuid: 8a64a42aa6b941468e28136f53c77478
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740481124838
+status: 3
+tags: []
+user_id: aya

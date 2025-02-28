@@ -1,0 +1,28 @@
+2025-02-28 22:15:12,407 - INFO - 🔄 Démarrage de l'API...
+2025-02-28 22:15:12,433 - INFO - ✅ Données chargées depuis merged_churn.csv
+2025-02-28 22:15:12,451 - ERROR - ❌ Erreur lors du chargement du modèle : [Errno 2] No such file or directory: 'random_forest_model.pkl'
+2025-02-28 22:15:28,124 - INFO - 🔄 Réentraînement du modèle avec : {'n_estimators': 800, 'max_depth': 4, 'min_samples_split': 5, 'min_samples_leaf': 1}
+2025-02-28 22:15:30,759 - INFO - ✅ Modèle réentraîné et sauvegardé sous random_forest_model.pkl
+2025-02-28 22:20:29,843 - INFO - 🔄 Démarrage de l'API...
+2025-02-28 22:20:29,851 - INFO - ✅ Données chargées depuis merged_churn.csv
+2025-02-28 22:20:29,995 - INFO - ✅ Modèle chargé depuis random_forest_model.pkl
+2025-02-28 22:22:31,082 - INFO - 🔄 Démarrage de l'API...
+2025-02-28 22:22:31,092 - INFO - ✅ Données chargées depuis merged_churn.csv
+2025-02-28 22:22:31,266 - INFO - ✅ Modèle chargé depuis random_forest_model.pkl
+2025-02-28 22:26:30,603 - INFO - 🔄 Démarrage de l'API...
+2025-02-28 22:26:30,611 - INFO - ✅ Données chargées depuis merged_churn.csv
+2025-02-28 22:26:30,755 - INFO - ✅ Modèle chargé depuis random_forest_model.pkl
+2025-02-28 22:28:58,895 - INFO - 🔄 Démarrage de l'API...
+2025-02-28 22:28:58,906 - INFO - ✅ Données chargées depuis merged_churn.csv
+2025-02-28 22:28:59,099 - INFO - ✅ Modèle chargé depuis random_forest_model.pkl
+2025-02-28 22:29:35,123 - INFO - 🟢 Requête de prédiction reçue.
+2025-02-28 22:29:35,123 - ERROR - ❌ Erreur de prédiction : 400: Nombre incorrect de features. Attendu : 19, Reçu : 16
+2025-02-28 22:29:52,835 - INFO - 🔄 Réentraînement du modèle avec : {'n_estimators': 500, 'max_depth': 0, 'min_samples_split': 2, 'min_samples_leaf': 1}
+2025-02-28 22:29:52,835 - ERROR - ❌ Erreur lors du réentraînement : The 'max_depth' parameter of RandomForestClassifier must be an int in the range [1, inf) or None. Got 0 instead.
+2025-02-28 22:30:01,600 - INFO - 🔄 Réentraînement du modèle avec : {'n_estimators': 500, 'max_depth': 4, 'min_samples_split': 2, 'min_samples_leaf': 1}
+2025-02-28 22:30:03,365 - INFO - ✅ Modèle réentraîné et sauvegardé sous random_forest_model.pkl
+2025-02-28 22:35:52,356 - INFO - 🔄 Démarrage de l'API...
+2025-02-28 22:35:52,383 - INFO - ✅ Données chargées depuis merged_churn.csv
+2025-02-28 22:35:52,509 - INFO - ✅ Modèle chargé depuis random_forest_model.pkl
+2025-02-28 22:36:09,704 - INFO - 🟢 Requête de prédiction reçue.
+2025-02-28 22:36:09,705 - ERROR - ❌ Erreur de prédiction : 400: Nombre incorrect de features. Attendu : 19, Reçu : 16

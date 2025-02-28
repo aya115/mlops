@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/ded61872681948b7bbc746f707726bc9/artifacts
+end_time: 1740772770161
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ded61872681948b7bbc746f707726bc9
+run_name: capricious-hen-174
+run_uuid: ded61872681948b7bbc746f707726bc9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740772770131
+status: 4
+tags: []
+user_id: aya
